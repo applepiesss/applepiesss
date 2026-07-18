@@ -46,8 +46,9 @@
 
 <p align="center">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=applepiesss&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=applepiesss&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img height="165" src="https://streak-stats.demolab.com/?user=applepiesss&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+<br/>
 
 ## Let's Connect ⋆˚꩜｡
 
