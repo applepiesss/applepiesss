@@ -16,19 +16,19 @@
 **Frontend & Mobile**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
 </p>
 
 **Backend & Frameworks**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
 **Languages**
@@ -45,14 +45,14 @@
 ## GitHub Stats ⋆✴︎˚｡⋆
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=applepiesss&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=applepiesss&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=applepiesss&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=applepiesss&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## Let's Connect ⋆˚꩜｡
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/USERNAME-LINKEDIN-KAMU" target="_blank">
+    <a href="https://www.linkedin.com/in/nadia-aisyah-fazila" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -64,9 +64,9 @@
 ---
 
 <p align="center">
-  <picture>
+<picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/applepiesss/applepiesss/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/applepiesss/applepiesss/output/github-contribution-grid-snake.svg" />
     <img alt="pink neon snake" src="https://raw.githubusercontent.com/applepiesss/applepiesss/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
+</picture>
 </p>
